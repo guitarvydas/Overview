@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.2" ID="920F3D55-9BA4-4DF5-8FB6-9C60F2519914">
+    <Notes>
+        <Note ID="0" FontSize="12.0" Position="60.444016,210.800751" Width="59.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>projects</String>
+            <ConnectedNoteIDs>1-6, 9-14, 33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="241.0,442.381165" Width="32.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.751286 0.937851 0.984426</Fill>
+            </Appearance>
+            <String>osl</String>
+            <ConnectedNoteIDs>0, 28</ConnectedNoteIDs>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="240.563049,136.421631" Width="46.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>das2f</String>
+            <ConnectedNoteIDs>0, 17</ConnectedNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="241.0,171.420227" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>das2j</String>
+            <ConnectedNoteIDs>0, 18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="241.0,212.888336" Width="31.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>pfr</String>
+            <ConnectedNoteIDs>0, 19</ConnectedNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="241.0,241.049072" Width="34.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>pre</String>
+            <ConnectedNoteIDs>0, 20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="241.0,274.0" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>querydisplay3</String>
+            <ConnectedNoteIDs>0, 7-8, 22</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="363.0,263.0" Width="84.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>querydisplay</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="364.30365,293.477325" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>querydisplay2</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="241.0,318.694916" Width="100.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>setquerydisplay</String>
+            <ConnectedNoteIDs>0, 23</ConnectedNoteIDs>
+        </Note>
+        <Note ID="10" FontSize="12.0" Position="241.0,352.91214" Width="92.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>shu-das2bash</String>
+            <ConnectedNoteIDs>0, 24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="241.0,383.097198" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.751286 0.937851 0.984426</Fill>
+            </Appearance>
+            <String>shu-das2py</String>
+            <ConnectedNoteIDs>0, 25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="241.0,413.279144" Width="75.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>shu-das2cl</String>
+            <ConnectedNoteIDs>0, 26</ConnectedNoteIDs>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="241.0,102.839432" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>d2f</String>
+            <ConnectedNoteIDs>0, 16</ConnectedNoteIDs>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="241.0,67.909592" Width="39.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>glue</String>
+            <ConnectedNoteIDs>0, 15</ConnectedNoteIDs>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="475.864471,60.692429" Width="227.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>semantic DSL for Ohm-JS strings-only</String>
+            <ConnectedNoteIDs>14, 29</ConnectedNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="476.0,102.959702" Width="281.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>.drawio to factbase (no inferencing, just raw facts)</String>
+            <ConnectedNoteIDs>13</ConnectedNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="476.0,138.0" Width="354.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>.drawio to factbase DSL, (inferences parsing and semantic info)</String>
+            <ConnectedNoteIDs>2, 36</ConnectedNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="476.0,177.929245" Width="263.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>same as das2f, except that it outputs JSON</String>
+            <ConnectedNoteIDs>3, 36</ConnectedNoteIDs>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="476.0,210.804413" Width="360.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>run parse over whole file, using .OHM and .GLUE specifications</String>
+            <ConnectedNoteIDs>4</ConnectedNoteIDs>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="476.0,238.959702" Width="398.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>like pfr, but parses only blocks bracketed by begin/terminate REGEXs</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="476.0,279.995117" Width="430.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>query language written in .MD format using PROLOG and JS (used by das2f)</String>
+            <ConnectedNoteIDs>6, 37</ConnectedNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="476.0,326.0" Width="236.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>like querdisplay3, except it works on Sets</String>
+            <ConnectedNoteIDs>9</ConnectedNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="476.0,362.0" Width="109.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>diagrams to bash</String>
+            <ConnectedNoteIDs>10, 27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="476.0,390.0" Width="119.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>diagrams to python</String>
+            <ConnectedNoteIDs>11, 27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="26" FontSize="12.0" Position="476.0,418.0" Width="157.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>diagrams to Common Lisp</String>
+            <ConnectedNoteIDs>12, 27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="735.910217,383.55191" Width="175.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999776 0.988948 0.951233</Fill>
+            </Appearance>
+            <String>DaS === Diagrams as Syntax</String>
+            <ConnectedNoteIDs>24-26</ConnectedNoteIDs>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="476.0,450.438538" Width="505.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>Ohm-JS Semantic Language - like pre/pfr but deals with JS objects (instead of only strings)</String>
+            <ConnectedNoteIDs>1</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="764.576294,65.291672" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999776 0.988948 0.951233</Fill>
+            </Appearance>
+            <String>targeted at writing transpilers (source-to-source reformatters)</String>
+            <ConnectedNoteIDs>15</ConnectedNoteIDs>
+        </Note>
+        <Note ID="33" FontSize="12.0" Position="241.0,479.353729" Width="81.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.669404 0.885265 0.567007</Border>
+                <Fill>0.743783 0.983628 0.630008</Fill>
+            </Appearance>
+            <String>Arrowgrams</String>
+            <ConnectedNoteIDs>0, 34</ConnectedNoteIDs>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="482.123291,480.570496" Width="452.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1">0.877748 0.828289 0.562126</Border>
+                <Fill>0.975275 0.920321 0.624585</Fill>
+            </Appearance>
+            <String>diagrams-to-executable code, probably going to be superceded by work on das2*</String>
+            <ConnectedNoteIDs>33</ConnectedNoteIDs>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="878.238892,161.592972" Width="121.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999776 0.988948 0.951233</Fill>
+            </Appearance>
+            <String>box-and-arrow DSL</String>
+            <ConnectedNoteIDs>17-18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="933.559814,280.218079" Width="137.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+                <Fill>0.999776 0.988948 0.951233</Fill>
+            </Appearance>
+            <String>produces .BASH script</String>
+            <ConnectedNoteIDs>22</ConnectedNoteIDs>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <Stacks>
+        <Stack>4-5</Stack>
+        <Stack>12, 1</Stack>
+        <Stack>19-20</Stack>
+        <Stack>24-26</Stack>
+    </Stacks>
+    <AutoFit>0-12, 14, 16-17, 23-27, 33, 36-37</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="C723E591-1388-45EE-BC9E-5A7E8ABD7632" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.668962 0.810287 0.895092</BorderColor>
+            <FillColor>0.743291 0.900319 0.994547</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="CF373CDA-A5EF-4D4D-AD3A-90EDA3690FF6" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.669404 0.885265 0.567007</BorderColor>
+            <FillColor>0.743783 0.983628 0.630008</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="9DAE629B-E4A0-4F5D-9DA4-236020A34BF7" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.894547 0.707772 0.715904</BorderColor>
+            <FillColor>0.989115 0.814114 0.999483</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="D28A822D-D17E-4B3E-AD79-F566CD20D1B3" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.894547 0.707772 0.715904</BorderColor>
+            <FillColor>0.993942 0.786413 0.795449</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="F823B613-D5AF-4689-BD5A-94BC6070F6CB" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.877748 0.828289 0.562126</BorderColor>
+            <FillColor>0.975275 0.920321 0.624585</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="A013F674-755D-4086-9F3F-A6FBE4EC0684" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985954 0.0 0.02694</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="0F102F73-6875-4755-8428-696BD66065FF" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999763 0.988395 0.949915</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <NoteXPadding>8.0</NoteXPadding>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>
