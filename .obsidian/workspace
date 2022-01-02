@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "0fb6d5142ee1a327",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dad733dab841df8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6113fa3733927a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "353d98b5bcd8ac59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20db33d3ce043537",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "737ce18df5049c16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8a93d8dbb416a61",
+    "type": "split",
+    "children": [
+      {
+        "id": "2765502003da1d9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9140166d9b058e18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4dad733dab841df8",
+  "lastOpenFiles": [
+    "README.md",
+    "2021-12-23-Projects-On-The-Go.png",
+    "Tool-Overview-2021-12-23-at-11.46.12-AM.mp4"
+  ]
+}
